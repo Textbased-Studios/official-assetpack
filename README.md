@@ -1,6 +1,6 @@
 # Made by Method
 
-![](textbased-studios.jpeg)
+![](official-logo/textbased-studios.jpeg)
 
 # Copyright
 Under no circumstances may you use any of the assets here for your own works, public or private. Doing so will result in a DMCA takedown. 
